@@ -2,7 +2,7 @@
 
 ## À propos  
 Cette organisation regroupe les projets liés à **PalaTracker**, un site utilisant l'[API](https://api.paladium.games/docs) de [Paladium](https://paladium-pvp.fr/).
-Notre objectif est de fournir une expérience utilisateur de supplémentaire sur Paladium.
+Notre objectif est de fournir une expérience utilisateur supplémentaire sur Paladium.
 
 ### Accès à nos ressources  
 - 🌐 **Application en production** : [palatracker.bromine.fr](https://palatracker.bromine.fr)  
