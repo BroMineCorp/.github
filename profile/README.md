@@ -1,4 +1,4 @@
-# Bienvenue sur l'organisation Bromine 🎉
+# Bienvenue sur l'organisation BroMineCorp 🎉
 
 ## À propos  
 Cette organisation regroupe les projets liés à **PalaTracker**, un site utilisant l'[API](https://api.paladium.games/docs) de [Paladium](https://paladium-pvp.fr/).
